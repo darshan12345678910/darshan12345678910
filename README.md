@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm a passionate Computer Science student driven by<br> the intersection of technology and creativity. I'm fascinated by the potential of Machine Learning to solve complex problems and am constantly seeking to expand my knowledge in this field. Alongside my technical pursuits, I hold a strong interest in web design and development, enjoying the challenge of crafting<br> user-friendly and visually appealing experiences.
-
+I'm a passionate Computer Science student driven by the intersection of technology and creativity. I'm fascinated by the potential of Machine Learning to solve complex problems and am constantly seeking to expand my knowledge in this field. Alongside my technical pursuits, I hold a strong interest in web design and development, enjoying the challenge of crafting user-friendly and visually appealing experiences.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/darshan-r-69b7622a1/) 
